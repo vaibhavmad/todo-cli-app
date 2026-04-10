@@ -1,5 +1,5 @@
 [project]
-name = "todo-app-cli-version"
+name = "todo-cli-app"
 version = "0.1.0"
 description = """A simple command-line ToDo application built with Python,
 supporting add, edit, complete, and view operations with persistent file storage."""

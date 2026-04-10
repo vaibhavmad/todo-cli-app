@@ -18,16 +18,18 @@ This project demonstrates core programming concepts like functions, modules, fil
 - Modular Code Structure  
 
 ## Project Structure
+```
 todo-cli-app/
 │
 ├── modules/
 │   ├── read_file.py
 │   ├── write_file.py
-│   └── init.py
+│   └── __init__.py
 │
 ├── app.py
 ├── todos.txt
 └── README.md
+```
 
 ## How to Run
 1. Clone the repository: git clone

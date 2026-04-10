@@ -47,7 +47,14 @@ Commands:
 - Writing modular Python code  
 - Handling user input and errors  
 - Working with files for data persistence  
-- Structuring a simple CLI application  
+- Structuring a simple CLI application
+
+## Key Concepts Demonstrated
+- File I/O operations
+- Modular programming (custom modules)
+- Error handling (try/except)
+- CLI input processing
+- Basic state persistence
 
 ## Future Improvements
 - Improve input parsing using `split()`  
